@@ -1,0 +1,6 @@
+name = "agui-proxy-test01"
+type = "javascript"
+
+account_id = ""  # 可暂时留空，或前往 Cloudflare Dashboard 获取
+workers_dev = true
+compatibility_date = "2025-07-18"
